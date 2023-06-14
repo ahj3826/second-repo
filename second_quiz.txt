@@ -1,2 +1,3 @@
 asdf
 qwer
+print('클론 연습용')
